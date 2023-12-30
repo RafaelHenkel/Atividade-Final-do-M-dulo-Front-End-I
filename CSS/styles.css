@@ -33,6 +33,7 @@ h3 {
 
 span {
   color: #795673;
+  text-decoration: none;
 }
 
 #navbar {
@@ -58,10 +59,6 @@ span {
 
 :link:hover{
   filter: brightness(50%);
-}
-
-a{
-  text-decoration: none;
 }
 
 .text-navbar {

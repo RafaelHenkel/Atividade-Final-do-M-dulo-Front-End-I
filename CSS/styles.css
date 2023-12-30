@@ -60,6 +60,10 @@ span {
   filter: brightness(50%);
 }
 
+a{
+  text-decoration: none;
+}
+
 .text-navbar {
   color: white;
   text-decoration: none;
